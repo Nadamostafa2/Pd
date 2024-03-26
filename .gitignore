@@ -2,3 +2,4 @@ node modules
 *.pdf
 !text.pdf
 test.txt
+folder2
